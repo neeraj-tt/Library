@@ -1,0 +1,18 @@
+Author: Neeraj Thottupurath
+
+
+Purpose: To check in and check out books from a library
+		 
+
+Header file: defs.h		 
+Source files: books.c, lib.c, client.c, connect.c, server.c 
+
+
+To compile: make
+
+
+To run: 
+ - ./server& in one terminal, to run server in background
+ - ./client in another terminal, to open client menu
+
+
